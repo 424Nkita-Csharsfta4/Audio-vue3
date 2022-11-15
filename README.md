@@ -1,6 +1,7 @@
 # audio-player-copy
 
-![image](https://user-images.githubusercontent.com/103760832/201960075-ee785989-ef4d-4f3a-97ad-a0981ebf4030.png)
+![image](https://user-images.githubusercontent.com/103760832/201960539-189cedc8-fcaf-49ff-a8fe-989c80fd683d.png)
+
 
 
 
